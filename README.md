@@ -3,7 +3,7 @@ This is only a conceptional demo linking WhatsApp and ChatGPT for the purpose of
 
 ## Install required node.js libraries 
 ```
-npm install openai qrcode-terminal sqlite3 readline-sync dotenv
+npm install openai qrcode-terminal sqlite3 readline-sync dotenv whatsapp-web
 ```
 
 ## Run
